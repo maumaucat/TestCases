@@ -2,6 +2,7 @@
 // The functions updateCustomerDetails and createCustomer have the same parameters: firstName, lastName, email, phoneNumber.
 
 class CustomerService {
+    
     updateCustomerDetails(
         firstName: string,
         lastName: string,
